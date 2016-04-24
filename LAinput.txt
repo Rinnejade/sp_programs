@@ -1,5 +1,0 @@
-# include < stdio.h >
-int main() {
-int ax = 21 ;
-float c = a + b ;
-}
